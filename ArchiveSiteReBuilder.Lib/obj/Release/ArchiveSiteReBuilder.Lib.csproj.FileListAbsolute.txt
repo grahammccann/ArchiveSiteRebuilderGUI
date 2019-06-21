@@ -1,0 +1,8 @@
+C:\Users\GRAHAM\Desktop\ASRC#\ArchiveSiteReBuilder.Lib\bin\Release\ArchiveSiteReBuilder.Lib.dll
+C:\Users\GRAHAM\Desktop\ASRC#\ArchiveSiteReBuilder.Lib\bin\Release\ArchiveSiteReBuilder.Lib.pdb
+C:\Users\GRAHAM\Desktop\ASRC#\ArchiveSiteReBuilder.Lib\bin\Release\HtmlAgilityPack.dll
+C:\Users\GRAHAM\Desktop\ASRC#\ArchiveSiteReBuilder.Lib\bin\Release\HtmlAgilityPack.pdb
+C:\Users\GRAHAM\Desktop\ASRC#\ArchiveSiteReBuilder.Lib\bin\Release\HtmlAgilityPack.xml
+C:\Users\GRAHAM\Desktop\ASRC#\ArchiveSiteReBuilder.Lib\obj\Release\ArchiveSiteReBuilder.Lib.dll
+C:\Users\GRAHAM\Desktop\ASRC#\ArchiveSiteReBuilder.Lib\obj\Release\ArchiveSiteReBuilder.Lib.pdb
+C:\Users\GRAHAM\Desktop\ASRC#\ArchiveSiteReBuilder.Lib\obj\Release\ArchiveSiteReBuilder.Lib.csprojResolveAssemblyReference.cache

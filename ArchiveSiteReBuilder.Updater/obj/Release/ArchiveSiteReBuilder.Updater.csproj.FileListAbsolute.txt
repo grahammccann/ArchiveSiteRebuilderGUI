@@ -1,0 +1,9 @@
+C:\Users\GRAHAM\Desktop\ASRC#\ArchiveSiteReBuilder.Updater\bin\Release\ArchiveSiteReBuilder.Updater.exe.config
+C:\Users\GRAHAM\Desktop\ASRC#\ArchiveSiteReBuilder.Updater\bin\Release\ArchiveSiteReBuilder.Updater.exe
+C:\Users\GRAHAM\Desktop\ASRC#\ArchiveSiteReBuilder.Updater\bin\Release\ArchiveSiteReBuilder.Updater.pdb
+C:\Users\GRAHAM\Desktop\ASRC#\ArchiveSiteReBuilder.Updater\obj\Release\ArchiveSiteReBuilder.Updater.Properties.Resources.resources
+C:\Users\GRAHAM\Desktop\ASRC#\ArchiveSiteReBuilder.Updater\obj\Release\ArchiveSiteReBuilder.Updater.UpdaterForm.resources
+C:\Users\GRAHAM\Desktop\ASRC#\ArchiveSiteReBuilder.Updater\obj\Release\ArchiveSiteReBuilder.Updater.csproj.GenerateResource.Cache
+C:\Users\GRAHAM\Desktop\ASRC#\ArchiveSiteReBuilder.Updater\obj\Release\ArchiveSiteReBuilder.Updater.exe
+C:\Users\GRAHAM\Desktop\ASRC#\ArchiveSiteReBuilder.Updater\obj\Release\ArchiveSiteReBuilder.Updater.pdb
+C:\Users\GRAHAM\Desktop\ASRC#\ArchiveSiteReBuilder.Updater\obj\Release\ArchiveSiteReBuilder.Updater.csprojResolveAssemblyReference.cache
